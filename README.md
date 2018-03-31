@@ -1,2 +1,2 @@
 # paper
-the list of papper
+the list of paper
